@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c817755-ab38-4f04-a5ab-2d18f4c21e81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/algorithmImpls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/algorithms/graph/BreadthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/algorithms/graph/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/algorithms/graph/GraphSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/ArrayProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/algorithms/model/InvalidArgumentsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/algorithms/stack/BalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/algorithms/tree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/algorithms/utils/TimeIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/FileReadingExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/MapSortedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/MarsRover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/test/java/com/haroldjin/algorithms/BreadthFirstSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/test/java/com/haroldjin/algorithms/DepthFirstSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/test/java/com/haroldjin/algorithms/list/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/test/java/com/haroldjin/algorithms/list/DoublyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/test/java/com/haroldjin/algorithms/stack/BalancedParenthesesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/test/java/com/haroldjin/algorithms/tree/AVLTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/test/java/com/haroldjin/java/lang/fundamental/MapSortedExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/test/java/com/haroldjin/java/lang/fundamental/MarsRoverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/src/test/resources/instructions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/target/surefire-reports/TEST-com.haroldjin.algorithms.DepthFirstSearchTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/target/surefire-reports/TEST-com.haroldjin.algorithms.algorithms.BreadthFirstSearchTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/target/surefire-reports/com.haroldjin.algorithms.DepthFirstSearchTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/target/surefire-reports/com.haroldjin.algorithms.algorithms.BreadthFirstSearchTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmImpls/target/test-classes/instructions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/lecture/AnalysisOfAlgorithms.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/lecture/UnionFind.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/result/result.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/src/InteractivePercolationVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/src/Percolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/src/PercolationStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/src/PercolationVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/Algorithms, Part I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/CREDITS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/greeting57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/greeting57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/heart25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/heart25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input1-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input1-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input10-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input10-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input2-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input2-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input8-dups.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input8-dups.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input8-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input8-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/input8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/java60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/java60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/jerry47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/jerry47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/sedgewick60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/sedgewick60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/snake101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/snake101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/snake13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/snake13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/wayne98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-1_percolation/test/wayne98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera-algorithm-part-1/week-2_stacksAndQueues/lecture/stacksAndQueues.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../machine-learning" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$USER_HOME$/Exercism/java/hello-world/target/" />
+    <ignored path="$USER_HOME$/Exercism/java/hello-world/.gradle/" />
+    <ignored path="$USER_HOME$/Exercism/java/hello-world/build/" />
+    <ignored path="$USER_HOME$/Exercism/java/hello-world/out/" />
+    <ignored path="$USER_HOME$/Exercism/java/two-fer/.gradle/" />
+    <ignored path="$USER_HOME$/Exercism/java/two-fer/build/" />
+    <ignored path="$USER_HOME$/Exercism/java/two-fer/out/" />
+    <ignored path="$USER_HOME$/Exercism/java/reverse-string/.gradle/" />
+    <ignored path="$USER_HOME$/Exercism/java/reverse-string/build/" />
+    <ignored path="$USER_HOME$/Exercism/java/reverse-string/out/" />
+    <ignored path="$PROJECT_DIR$/../github/algorithms/target/" />
+    <ignored path="$PROJECT_DIR$/algorithm/algorithmImpls/target/" />
+    <ignored path="$PROJECT_DIR$/../my_github/maestro/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$USER_HOME$/Exercism/java/hello-world">
+      <ProjectState />
+    </projectState>
+    <projectState path="$USER_HOME$/Exercism/java/reverse-string">
+      <ProjectState />
+    </projectState>
+    <projectState path="$USER_HOME$/Exercism/java/two-fer">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$USER_HOME$/Exercism/java/hello-world">
+          <activation />
+        </task>
+        <task path="$USER_HOME$/Exercism/java/two-fer">
+          <activation />
+        </task>
+        <task path="$USER_HOME$/Exercism/java/reverse-string">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="two-fer" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>node</find>
+      <find>put(</find>
+      <find>add</find>
+      <find>nodeToReturn</find>
+      <find>creator</find>
+      <find>value</find>
+      <find>CompareTo</find>
+      <find>CompareTo(</find>
+      <find>theUnsafe</find>
+      <find>valueOffset</find>
+      <find>block</find>
+      <find>poll(</find>
+      <find>return</find>
+      <find>System</find>
+      <find>add(</find>
+      <find>equals(</find>
+      <find>compare(</find>
+      <find>comparator</find>
+      <find>heightheight</find>
+      <find>height</find>
+      <find>getValue()</find>
+      <find>updateheigh</find>
+      <find>java.io.FileReader</find>
+      <find>removef</find>
+      <find>size</find>
+      <find>\</find>
+      <find>numNew</find>
+      <find>actionaction</find>
+      <find>hasnex</find>
+      <find>ListItr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>breadthFirstSearch</replace>
+      <replace>ArrayList</replace>
+      <replace>value</replace>
+      <replace>FileReader</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/DepthFirstSearchTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/GraphSearch.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/GraphSearch.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/algorithms/BreadthFirstSearchTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/SelfBalancingTree.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/utils/TimeIt.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/DepthFirstSearchTest.java" />
+        <option value="$PROJECT_DIR$/../github/algorithms/src/main/java/iurii/job/interview/datastructure/linkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/LinkedList.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/BreadthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/List.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/DoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/../github/algorithms/src/main/java/iurii/job/interview/datastructure/redblacktree/BST.java" />
+        <option value="$PROJECT_DIR$/../github/algorithms/src/main/java/iurii/job/interview/datastructure/redblacktree/RedBlackTree.java" />
+        <option value="$PROJECT_DIR$/../github/java-algorithms-implementation/src/com/jwetherell/algorithms/data_structures/AVLTree.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/DepthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/TestIt.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/utils/TestIt.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/AVLTree.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/lang/fundamental/ReadFile.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/lang/fundamental/RoverRobotic.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/lang/fundamental/Direction.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/instructions" />
+        <option value="$PROJECT_DIR$/instructions" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/lang/fundamental/FileReading.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/lang/fundamental/MarsRover.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/lang/fundamental/TestDo.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/stack/BalancedParenthesis.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/algorithms/stack/BalancedParenthesisTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/java/lang/fundamental/MarsRoverTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/MarsRover.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/FileReading.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/FileReader.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/stack/BalancedParentheses.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/stack/BalancedParenthesesTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/MapKVSortedExample.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/java/lang/fundamental/MapSortedExampleTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/tree/AVLTreeTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/tree/AVLTree.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/FileReadingExamples.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/MapSortedExample.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/DoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/list/DoublyLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/MinimumElementArray.kt" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/MinimumElementArray.java" />
+        <option value="$PROJECT_DIR$/../github/algorithms/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/ArrayProblems.java" />
+        <option value="$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/list/ArrayTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="804" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms-p1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms-p1" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmImpls" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/harold/local_work/coursera/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/list/ArrayTest.java&#10;avltree&#9;PSI&#9;JAVA://com.jwetherell.algorithms.data_structures.AVLTree&#10;AVLTre&#9;FILE&#9;file:///Users/harold/local_work/coursera/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/tree/AVLTree.java&#10;binaryo&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/BinaryOperator.java&#10;arraylist&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;comparable&#9;PSI&#9;JAVA://java.lang.Comparable&#10;avlt&#9;FILE&#9;file:///Users/harold/local_work/github/java-algorithms-implementation/src/com/jwetherell/algorithms/data_structures/AVLTree.java&#10;avl&#9;FILE&#9;file:///Users/harold/local_work/github/java-algorithms-implementation/src/com/jwetherell/algorithms/data_structures/AVLTree.java&#10;bst&#9;FILE&#9;file:///Users/harold/local_work/github/algorithms/src/main/java/iurii/job/interview/datastructure/redblacktree/RedBlackBST.java&#10;java.util.list&#9;PSI&#9;JAVA://java.util.List&#10;timeit&#9;FILE&#9;file:///Users/harold/local_work/coursera/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/utils/TimeIt.java&#10;depth&#9;FILE&#9;file:///Users/harold/local_work/coursera/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/DepthFirstSearchTest.java&#10;java.util.map&#9;PSI&#9;JAVA://java.util.Map&#10;dep&#9;FILE&#9;file:///Users/harold/local_work/coursera/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/DepthFirstSearchTest.java&#10;depthfirst&#9;FILE&#9;file:///Users/harold/local_work/coursera/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/DepthFirstSearch.java&#10;graph&#9;FILE&#9;file:///Users/harold/local_work/coursera/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/GraphSearch.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="/Volumes/21/androidSdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543079111336" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.haroldjin.algorithms.list" />
+      <recent name="com.haroldjin.algorithms.tree" />
+      <recent name="com.haroldjin.java.lang.fundamental" />
+      <recent name="com.haroldjin.algorithms.algorithms.stack" />
+      <recent name="com.haroldjin.algorithms.algorithms" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.haroldjin" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/algorithm/coursera-algorithm-part-1/week-1_percolation/lecture" />
+      <recent name="$PROJECT_DIR$/algorithm/week-1_percolation/src" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm/algorithmImpls/src/test" />
+      <recent name="$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java" />
+      <recent name="$PROJECT_DIR$/algorithm/coursera-algorithm-part-1/week-1_percolation/lecture" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="haroldjin" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.haroldjin.algorithms.list" />
+      <recent name="com.haroldjin.lang.fundamental" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayTest.mergeTwoSortedArrays">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.firstNonRepeatElementInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haroldjin.algorithms.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haroldjin.algorithms.list" />
+      <option name="MAIN_CLASS_NAME" value="com.haroldjin.algorithms.list.ArrayTest" />
+      <option name="METHOD_NAME" value="firstNonRepeatElementInArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.mergeTwoSortedArrays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haroldjin.algorithms.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haroldjin.algorithms.list" />
+      <option name="MAIN_CLASS_NAME" value="com.haroldjin.algorithms.list.ArrayTest" />
+      <option name="METHOD_NAME" value="mergeTwoSortedArrays" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.minElementArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haroldjin.algorithms.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haroldjin.algorithms.list" />
+      <option name="MAIN_CLASS_NAME" value="com.haroldjin.algorithms.list.ArrayTest" />
+      <option name="METHOD_NAME" value="minElementArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListTest.test_addFirstLast_shouldReturn_CorrectValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haroldjin.algorithms.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haroldjin.algorithms.list" />
+      <option name="MAIN_CLASS_NAME" value="com.haroldjin.algorithms.list.DoublyLinkedListTest" />
+      <option name="METHOD_NAME" value="test_addFirstLast_shouldReturn_CorrectValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapSortedExampleTest.mapSortedByValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haroldjin.java.lang.fundamental.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haroldjin.java.lang.fundamental" />
+      <option name="MAIN_CLASS_NAME" value="com.haroldjin.java.lang.fundamental.MapSortedExampleTest" />
+      <option name="METHOD_NAME" value="mapSortedByValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MapSortedExampleTest.mapSortedByValue" />
+      <item itemvalue="JUnit.DoublyLinkedListTest.test_addFirstLast_shouldReturn_CorrectValue" />
+      <item itemvalue="JUnit.ArrayTest.minElementArray" />
+      <item itemvalue="JUnit.ArrayTest.firstNonRepeatElementInArray" />
+      <item itemvalue="JUnit.ArrayTest.mergeTwoSortedArrays" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayTest.mergeTwoSortedArrays" />
+        <item itemvalue="JUnit.ArrayTest.firstNonRepeatElementInArray" />
+        <item itemvalue="JUnit.ArrayTest.minElementArray" />
+        <item itemvalue="JUnit.DoublyLinkedListTest.test_addFirstLast_shouldReturn_CorrectValue" />
+        <item itemvalue="JUnit.MapSortedExampleTest.mapSortedByValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c817755-ab38-4f04-a5ab-2d18f4c21e81" name="Default Changelist" comment="" />
+      <created>1538626681205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538626681205</updated>
+      <workItem from="1538626685411" duration="500000" />
+      <workItem from="1538627239389" duration="728000" />
+      <workItem from="1538628673407" duration="876000" />
+      <workItem from="1538709994131" duration="3385000" />
+      <workItem from="1538848567658" duration="130000" />
+      <workItem from="1538889242669" duration="16846000" />
+      <workItem from="1538935175920" duration="18121000" />
+      <workItem from="1539147342454" duration="675000" />
+      <workItem from="1539564689043" duration="1084000" />
+      <workItem from="1539744227634" duration="644000" />
+      <workItem from="1540140625815" duration="1465000" />
+      <workItem from="1540438339430" duration="2505000" />
+      <workItem from="1540519341148" duration="3509000" />
+      <workItem from="1540667227652" duration="11104000" />
+      <workItem from="1540748246606" duration="664000" />
+      <workItem from="1540788241922" duration="1735000" />
+      <workItem from="1540863627625" duration="2612000" />
+      <workItem from="1540965263592" duration="804000" />
+      <workItem from="1541036798084" duration="1102000" />
+      <workItem from="1541127884618" duration="330000" />
+      <workItem from="1541209037896" duration="1176000" />
+      <workItem from="1541214765183" duration="593000" />
+      <workItem from="1541224406900" duration="534000" />
+      <workItem from="1541260882538" duration="12804000" />
+      <workItem from="1541348418913" duration="15001000" />
+      <workItem from="1542247164778" duration="224000" />
+      <workItem from="1542471643248" duration="1777000" />
+      <workItem from="1542478516014" duration="798000" />
+      <workItem from="1542491263957" duration="19744000" />
+      <workItem from="1542602498569" duration="10027000" />
+      <workItem from="1543840922150" duration="772000" />
+      <workItem from="1546747655830" duration="1458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 29m 19s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 34m 56s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 37m 49s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 41m 16s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 41m 31s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 43m 03s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 43m 48s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 46m 16s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 48m 46s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTwoSortedArrays - 2018.11.22 at 19h 49m 22s.xml">
+      <configuration name="ArrayTest.mergeTwoSortedArrays" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="133727000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="804" extended-state="0" />
+    <layout>
+      <window_info id="UI Designer" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4870317" visible="true" weight="0.21101573" />
+      <window_info id="Structure" order="1" sideWeight="0.5129683" side_tool="true" weight="0.18922305" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" weight="0.2737819" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4985694" weight="0.32630098" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4914163" weight="0.34739804" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49499285" weight="0.38255978" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32946634" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.492674" visible="true" weight="0.70926964" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.507326" side_tool="true" weight="0.39559165" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49284694" weight="0.32630098" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32946634" />
+      <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.3286517" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.3297568" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.32957393" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32967034" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.23175965" />
+      <window_info anchor="right" id="Gradle" order="9" weight="0.26251528" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4870317" visible="true" weight="0.23382173" />
+      <window_info id="Structure" order="1" sideWeight="0.5129683" side_tool="true" weight="0.18922305" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" weight="0.2737819" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4985694" weight="0.32752612" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4914163" weight="0.2508711" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49499285" weight="0.39372823" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32946634" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.492674" visible="true" weight="0.2682927" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.507326" side_tool="true" weight="0.39559165" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49284694" weight="0.32830626" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32946634" />
+      <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.3286517" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32967034" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.15689866" />
+      <window_info anchor="right" id="Gradle" order="9" weight="0.26251528" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../github/algorithms/src/main/java/iurii/job/interview/amazon/BalancedParentheses.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/utils/TimeIt.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/../github/java-algorithms-implementation/build.xml">
+      <targetFilters>
+        <filter targetName="echo.env_vars" isVisible="false" />
+        <filter targetName="clean" isVisible="false" />
+        <filter targetName="init" isVisible="false" />
+        <filter targetName="build" isVisible="true" />
+        <filter targetName="dist" isVisible="true" />
+        <filter targetName="build_tests" isVisible="true" />
+        <filter targetName="tests_jar" isVisible="true" />
+        <filter targetName="run_tests" isVisible="false" />
+        <filter targetName="data_structures" isVisible="false" />
+        <filter targetName="mathematics" isVisible="false" />
+        <filter targetName="numbers" isVisible="false" />
+        <filter targetName="search" isVisible="false" />
+        <filter targetName="sequences" isVisible="false" />
+        <filter targetName="sorts" isVisible="false" />
+        <filter targetName="strings" isVisible="false" />
+        <filter targetName="run_timing" isVisible="false" />
+        <filter targetName="test" isVisible="false" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>fs.prefixLength(this.path)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new String(((MacOSXFileSystem)((UnixPath)path).fs).defaultDirectory)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>sun.nio.fs.UnixPath,sun.nio.fs.MacOSXFileSystem</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.valueOf(108)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String.valueOf(108);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>depthFirstSearch</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>links</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isClosed(c)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>in.isEmpty()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bottomOpenSites</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../github/java-algorithms-implementation/src/com/jwetherell/algorithms/data_structures/interfaces/ITree.java" />
+    <entry file="file://$PROJECT_DIR$/../github/java-algorithms-implementation/src/com/jwetherell/algorithms/data_structures/BinarySearchTree.java" />
+    <entry file="file://$PROJECT_DIR$/../github/java-algorithms-implementation/src/com/jwetherell/algorithms/data_structures/BinaryHeap.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/AVLTree.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/algorithms/stack/BalancedParenthesis.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/resources/instructions" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/algorithms/stack/BalancedParenthesisTest.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/java/lang/fundamental/MarsRoverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/TestDo.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/MarsRover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Character.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/stack/BalancedParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/test/resources/instructions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/utils/TestIt.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/stack/BalancedParenthesesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/utils/TimeIt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Comparator.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/BinaryOperator.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Map.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Comparable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" />
+    <entry file="file://$PROJECT_DIR$/../github/java-algorithms-implementation/src/com/jwetherell/algorithms/data_structures/AVLTree.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/tree/AVLTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Iterable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/list/DoublyLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/java/lang/fundamental/MapSortedExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/tree/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="61" column="38" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/AbstractSequentialList.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/MinimumElementArray.kt" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/MinimumElementArray.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="148" column="6" selection-start-line="148" selection-start-column="6" selection-end-line="148" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github/algorithms/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../github/algorithms/checkstyles/basic-checkstyle-no-javadoc.xml" />
+    <entry file="file://$PROJECT_DIR$/../my_github/maestro/pom.xml" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Integer.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Object.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/ComparisonCriteria.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/test/java/com/haroldjin/algorithms/list/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../my_github/homeforget/android/homeforget.iml" />
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/FileReadingExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/java/lang/fundamental/MapSortedExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/ArrayProblems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithmImpls/src/main/java/com/haroldjin/algorithms/list/DoublyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Graph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Coursera</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
